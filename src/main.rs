@@ -1,4 +1,5 @@
+use aoc::d2;
+
 fn main() {
-    println!("{}", aoc::d1::solution());
-    println!("{}", aoc::d1::solution2());
+    println!("{}", d2::solution());
 }
