@@ -1,5 +1,5 @@
 use aoc::d2;
 
 fn main() {
-    println!("{}", d2::solution());
+    println!("{}", d2::solution2());
 }
